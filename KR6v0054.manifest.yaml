@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:1c071f55521e3f0332c1bf046d062314864c4dfaeb943bc6e6711e7bb136121a'}
-  - {seq: 1, filename: KR6v0054_001.yaml, hash: 'sha256:672324bb6aba0a54beac544f71a9687b4e95c1d0cd1cc22f54c56ffa91ed537f'}
+  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:92a115d1894a53876e8b92cb4626244ad2196887fa510f9a45a313152a355602'}
+  - {seq: 1, filename: KR6v0054_001.yaml, hash: 'sha256:abca6670cc71da9eb6efcb82fd77105b33a634108251f70dee691bfde41527b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:1c8bedaf425c0501546a4cd38982f904f233c4061ce98db83283194cace56015'}
-  - {seq: 1, role: markers, filename: assets/KR6v0054_001.markers.yaml, hash: 'sha256:d1e0ea1812d8065018e2ac7460709700aa386022c227b4bdecd3365f404a3fe2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:adf08eb20e280404f3952bd24575a0eca355188c154297c9b8147234a187ca7f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0054_001.markers.yaml, hash: 'sha256:4e27dfc9ee26447e20bd5da8c30ade260ac1de1d086717a8a21b8eeaf0bf5721'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 佛在金棺上囑累經
   type: juan
   level: 1
-hash: sha256:91c7e14c9a4f7f4cffcd2d0152dce3ee03f1e5d1953e7c6a658898e75a3bec58
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19e53af12e22c17ac5b2636b673b25848bd70045f449a3bcff0fdbbbce4cc2e4
 editions:
 - short: ZW
