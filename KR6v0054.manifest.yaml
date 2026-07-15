@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0054/v1
 canonical_location: https://kanripo.org/bkk/KR6v0054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛在金棺上囑累經
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:92a115d1894a53876e8b92cb4626244ad2196887fa510f9a45a313152a355602'}
-  - {seq: 1, filename: KR6v0054_001.yaml, hash: 'sha256:abca6670cc71da9eb6efcb82fd77105b33a634108251f70dee691bfde41527b0'}
+  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:5ceead036a6ecd9881329c336f08264527c7e02d07e8f7b75016bcb4f3bca390'}
+  - {seq: 1, filename: KR6v0054_001.yaml, hash: 'sha256:8eaa6f373f6842c9ee43b6e429e21066431666144d4c0491163361cb89b659f2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:adf08eb20e280404f3952bd24575a0eca355188c154297c9b8147234a187ca7f'}
-  - {seq: 1, role: markers, filename: assets/KR6v0054_001.markers.yaml, hash: 'sha256:4e27dfc9ee26447e20bd5da8c30ade260ac1de1d086717a8a21b8eeaf0bf5721'}
+  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:3519d2dfdf36d0b4654d5d0723e1f66fba075ae32fc76ddf3f3cbcf072a2b4f3'}
+  - {seq: 1, role: markers, filename: assets/KR6v0054_001.markers.yaml, hash: 'sha256:be99b079c6c8f0955aeca8f601d2e661785c85ba21246d12805495e7017d731e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,6 +52,9 @@ table_of_contents:
   label: 佛在金棺上囑累經
   type: juan
   level: 1
-hash: sha256:19e53af12e22c17ac5b2636b673b25848bd70045f449a3bcff0fdbbbce4cc2e4
+hash: sha256:201bbff375146f0c07e7e0be5f426ae872c2be620030714bc3906adb634db39e
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
