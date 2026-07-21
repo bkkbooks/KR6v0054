@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:5ceead036a6ecd9881329c336f08264527c7e02d07e8f7b75016bcb4f3bca390'}
+  - {seq: 0, filename: KR6v0054_000.yaml, hash: 'sha256:8fffb0badf40d952d1624fa5a98fb50672d00467f6041de32902b6d9ae291ef4'}
   - {seq: 1, filename: KR6v0054_001.yaml, hash: 'sha256:8eaa6f373f6842c9ee43b6e429e21066431666144d4c0491163361cb89b659f2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:3519d2dfdf36d0b4654d5d0723e1f66fba075ae32fc76ddf3f3cbcf072a2b4f3'}
+  - {seq: 0, role: markers, filename: assets/KR6v0054_000.markers.yaml, hash: 'sha256:04b2361b3beae171ef6d2114055e1e376a3e4b1f178318dd3b7a579ca9ea3666'}
   - {seq: 1, role: markers, filename: assets/KR6v0054_001.markers.yaml, hash: 'sha256:be99b079c6c8f0955aeca8f601d2e661785c85ba21246d12805495e7017d731e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0054_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0054_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 929
     - 929
   label: 錄文一：佛在金棺上囑累經
@@ -52,7 +52,7 @@ table_of_contents:
   label: 佛在金棺上囑累經
   type: juan
   level: 1
-hash: sha256:201bbff375146f0c07e7e0be5f426ae872c2be620030714bc3906adb634db39e
+hash: sha256:af9bb0908b718f96f031e91e423eb64728c0c42af06eb5c1e7ca57b727cb1323
 editions:
 - short: ZW
 mappings:
